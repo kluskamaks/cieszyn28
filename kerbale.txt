@@ -4,3 +4,10 @@ wysyłanie plików na serwer
 git add "nazwa pliku.rosrzerzenie"
  git commit -m "opis"
  git push -u origin main
+
+usuwanie plików 
+
+git commit -am "usuwanie "
+
+pobieranie 
+ git pull
